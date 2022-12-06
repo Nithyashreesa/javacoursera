@@ -24,4 +24,7 @@ This is my *capstone project* of the *"Java Programming and Software Engineering
 ![Recommended movie list for user](/img/Recommendadtion.png)
 
 
+![Recommended movie list for user](/img/Recommendadtion.png)
+
+
 
